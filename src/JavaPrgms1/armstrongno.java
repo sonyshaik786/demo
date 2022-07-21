@@ -21,6 +21,7 @@ public static void main(String[] args)
 	if(no==armno)
 	{
 		System.out.println("It is a armstrong no");
+		System.out.println("Its armstrong no");
 	}
 	else
 	{
