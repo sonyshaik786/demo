@@ -29,6 +29,7 @@ public static void main(String[] args)
 	System.out.println("Now divya is going to do coding");
 	System.out.println("Next day soni is going to do code");
 	System.out.println("next day divya code");
+	System.out.println("3rd day sonys code");
 	System.out.println("3rd day of divyas code");
-}
+	}
 }
