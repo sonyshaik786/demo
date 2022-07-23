@@ -27,6 +27,7 @@ public static void main(String[] args)
 	}
 	System.out.println("program completed");
 	System.out.println("Now divya is going to do coding");
+	System.out.println("Next day soni is going to do code");
 	System.out.println("next day divya code");
 }
 }
