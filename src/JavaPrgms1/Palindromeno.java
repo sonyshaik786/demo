@@ -25,5 +25,6 @@ public static void main(String[] args)
 	{
 		System.out.println("It is not a palindrome no");
 	}
+	System.out.println("Now divya is going to do coding");
 }
 }
